@@ -1,0 +1,9 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: alumno_m
+ * Date: 10/01/2018
+ * Time: 8:52
+ */
+
+echo"Bienvenido a las prácticas de PHP";
